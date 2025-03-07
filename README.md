@@ -57,6 +57,6 @@ Contributions are welcome! If you'd like to contribute:
 4. Open a pull request.
 
 ## 📧 Contact
-For any queries or suggestions, reach out via **GitHub Issues** or email at **your-email@example.com**.
+For any queries or suggestions, reach out via **GitHub Issues** or email at **kartikkurhade8203@gmailcom**.
 
 Happy coding! 🚀

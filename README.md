@@ -26,7 +26,7 @@ The **Progress Tracker** is a project management tool built with **Jetpack Compo
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Kartik8203/ProgressTracker.git
+   git clone https://github.com/ankurm9/progress-tracker.git
    ```
 2. Open the project in **Android Studio**.
 3. Connect Firebase by adding the `google-services.json` file.
